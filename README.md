@@ -1,6 +1,6 @@
 # ProducerConsumer
 
-In this project, we implement a producer/consumer problem involving web scraping.
+In this project, we implement in an .ipynb file a producer/consumer problem involving web scraping.
 
 It inputs a list of URLs in the CSV, URLs.csv, and for each valid URL extracts all the hyperlinks in that URL.
 
